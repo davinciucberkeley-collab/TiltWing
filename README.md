@@ -1,4 +1,4 @@
-# vaibhav_TiltWing — tilt-wing VTOL design study
+# TiltWing — tilt-wing VTOL design study
 
 Parametric tilt-wing VTOL after Çakır & Kurtuluş, "Design and aerodynamic analysis of a VTOL tilt-wing UAV",
 Turk J Elec Eng & Comp Sci 30 (2022) 767–784, doi:10.3906/elk-2105-59. The paper's values are only the slider
