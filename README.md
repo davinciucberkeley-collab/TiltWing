@@ -4,6 +4,9 @@ Parametric tilt-wing VTOL after Çakır & Kurtuluş, "Design and aerodynamic ana
 Turk J Elec Eng & Comp Sci 30 (2022) 767–784, doi:10.3906/elk-2105-59. The paper's values are only the slider
 defaults; every result is recomputed from the sliders.
 
+Design report (assumptions, fabrication BOM, risks, improvements, tests): https://claude.ai/code/artifact/b23ddeab-180c-40f5-969b-97d22813868d
+Interactive dashboard (published): https://claude.ai/artifact/PQmwyLZZRQxfzAyzwcWGxL — or open `dashboard.html` locally.
+
 Origin: copied from davinciucberkeley-collab/DBF-VTOL, branch `design2`, commit aef0007 (`tiltwing/`). Source paper PDF in `docs/`.
 
 ## Open
